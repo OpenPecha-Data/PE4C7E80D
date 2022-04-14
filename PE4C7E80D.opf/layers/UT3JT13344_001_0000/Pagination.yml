@@ -1,0 +1,100 @@
+id: cca205cd3df247308d05c0626145b622
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  6b8c7d8038cc4325ad6d067c32bc7115:
+    span:
+      start: 9556
+      end: 11087
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP6B2C4255F8C1A39E
+  38d13f29138c40708009fec911e3aa47:
+    span:
+      start: 11089
+      end: 11142
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPF6FCE36F0CA66803
+  8276f183656e465bad7e4594eaa517b3:
+    span:
+      start: 4701
+      end: 6216
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPCD63217E9002344E
+  ac6593bea3714ada9fe357bb2f38ddf2:
+    span:
+      start: 12589
+      end: 14046
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP11C34D17409D7959
+  19aa070a2c4a44878255cc55e257873d:
+    span:
+      start: 6218
+      end: 7981
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP33624FF1A7832456
+  53a6701f9bb64e5aa7d9b18b63afa8cb:
+    span:
+      start: 0
+      end: 115
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPE0634C017DF60B7A
+  45d43c4577784d2b9720dc95c150f9de:
+    span:
+      start: 14048
+      end: 14895
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP94AB1F1E1DEA9CD2
+  c531deaac4ac4883b33d7cd626169573:
+    span:
+      start: 7983
+      end: 9554
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPAEA8D2A48811BE56
+  d374a0a2c6e24a27adfd67803c2ac296:
+    span:
+      start: 3001
+      end: 4699
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPBDD232FA94D05DFC
+  881bf26e11ae497098b566efae033def:
+    span:
+      start: 117
+      end: 1553
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPA9739FBF0D366A00
+  29d4138a9a664202b0934aba2c0f0426:
+    span:
+      start: 1555
+      end: 2999
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP85AB24F597DB6352
+  728f77af0a294732a614cd97d4f9ab60:
+    span:
+      start: 11144
+      end: 12587
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP9363D360256CAB42

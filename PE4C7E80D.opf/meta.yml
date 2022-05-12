@@ -122,3 +122,8 @@ source_metadata:
   reproductionOf: []
 created_at: '2021-12-30T16:36:10.998376'
 last_modified_at: '2021-12-30T16:36:10.998400'
+statistics:
+  total_words: 102617
+  total_non_words: 14058
+quality:
+  non_words_ratio: 0.14
